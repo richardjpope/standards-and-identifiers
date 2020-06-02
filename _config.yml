@@ -2,6 +2,8 @@ plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
-  collections: true
+  collections: false
   include:
     - index.md
+    - formats/*.md
+    - identifiers/*.md
