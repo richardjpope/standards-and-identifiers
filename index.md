@@ -1,7 +1,7 @@
 # Geographic standards and identifiers
 
 ## Identifiers
-* [Identify the nations of the UK that data applies to](formats/uk-nations.md)
+* [Identify the nations of the UK that data applies to](identifiers/uk-nations.md)
 
 ## Standards
 
