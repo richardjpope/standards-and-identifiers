@@ -8,3 +8,6 @@ relative_links:
 #    - index.md
 #    - formats/*.md
 #    - identifiers/*.md
+  exclude:
+    - README.md
+
