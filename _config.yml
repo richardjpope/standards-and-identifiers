@@ -4,10 +4,10 @@ plugins:
 relative_links:
   enabled: true
   collections: false
-# include:
-#    - index.md
-#    - formats/*.md
-#    - identifiers/*.md
+  include:
+    - index.md
+    - formats/*.md
+    - identifiers/*.md
   exclude:
     - README.md
 
